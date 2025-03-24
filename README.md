@@ -24,8 +24,8 @@ The dataset includes columns such as:
 - ##  Technologies Used
 
 - **Python**  
-- **Jupyter Notebook**  
--##  Key Analysis Tasks
+- **Jupyter Notebook**
+##  Key Analysis Tasks
 
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
