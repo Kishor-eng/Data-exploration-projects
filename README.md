@@ -21,7 +21,7 @@ The dataset includes columns such as:
 - Clean and prepare the data for analysis  
 - Identify trends and distributions in funding and project locations  
 - Visualize key aspects such as location, financial commitment, and collaborations
-- ##  Technologies Used
+ ##  Technologies Used
 
 - **Python**  
 - **Jupyter Notebook**
